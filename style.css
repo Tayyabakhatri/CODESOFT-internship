@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'script';
+    src: url('fonts/BRUSHSCI.TTF');
+    
+}
+
+body{
+    background-color: #fffcf8;
+}
+/* navbar button */
+.bt{
+    background-color: #d4a762;
+    color: black;
+    border: 0px;
+    transition: background-color 0.8s ease; 
+}
+.bt:hover{
+    background-color: black;
+    color: #d4a762;
+}
+
+.tab-color{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color:rgba(0, 0, 0, .55);
+    transition: color 0.5s ease;
+}
+.tab-color:hover{
+    color: #d4a762;
+}
+.font{
+    font-family: script;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+.logo-color{
+    color: #d4a762;
+}
+
+     
+    
+    
