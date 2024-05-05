@@ -3,6 +3,10 @@
     src: url('fonts/BRUSHSCI.TTF');
     
 }
+@font-face {
+  font-family: 'darleston';
+  src:url('fonts/Darleston.otf');
+}
 
 body{
     background-color: #fffcf8;
@@ -133,6 +137,21 @@ body{
   .text-focus-in {
 	-webkit-animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
 	        animation: text-focus-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+.p{
+  font-family: darleston;
+  word-spacing: 15px;
+  
+}
+.card-color{
+background-color: #d4a762;
+transition: background-color 0.8s ease ;
+}
+.card-color:hover{
+background-color: white;
+}
+.card-font{
+  font-family: script;
 }
      
     
