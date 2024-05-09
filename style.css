@@ -377,6 +377,19 @@ background-color:white;
 .image-container:hover .image-hover {
   opacity: 0.7; /* Adjust the opacity as needed */
 }
+.footer-heading{
+  font-family: darleston;
+  font-size:80px;
+  
+}
+@media screen and (max-width:500px) {
+  .footer-heading{
+    font-size: 30px;
+  }
+}
+.first-div{
+  width: 250px;
+}
 
 
     
