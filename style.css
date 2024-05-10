@@ -336,7 +336,12 @@ background-color:white;
   margin-bottom: 150px;
 }
 .blog{
-  margin-bottom: 250px;
+  margin-bottom: 200px;
+}
+@media screen and (max-width:500px) {
+  .blog{
+    margin-bottom: 150px;
+  }
 }
 
 
