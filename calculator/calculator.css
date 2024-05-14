@@ -1,0 +1,19 @@
+.main-div{
+    width: 30%;
+    height:600px ;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 150px;
+    padding-top: 20px;
+}
+.btn-1{
+    width: 70px;
+    height: 50px;
+    background-color: white;
+}
+.screen{
+    width: 100%;
+    background-color: gray;
+    height: 80px;
+    
+}
